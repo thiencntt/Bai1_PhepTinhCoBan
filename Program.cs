@@ -32,6 +32,7 @@
             // so2 == 0
             Console.WriteLine("Không thể chia cho 0");
         }
+        // Ghi thêm
 
     }
 }
